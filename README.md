@@ -6,6 +6,8 @@ Live paper about the way we could look at algorithms and how they relate to us -
 
 ### 20180225: Notes to version v0001 (alpha)
 
+Read version 0001 [here](https://github.com/dcuartielles/algorithmic-sovereignty/blob/master/v0001/20180225-Cuartielles-Algorithmic-Sovereignty-v0001.md)
+
 The version v0001 (alpha) of this paper was released as an extended abstract submitted to Malmo University's '''Critical IoT''' PhD course. This version has some mispelling errors and it is incomplete as it lacks revisiting the comments made by the course participants.
 
 ## Authorship and contributions
