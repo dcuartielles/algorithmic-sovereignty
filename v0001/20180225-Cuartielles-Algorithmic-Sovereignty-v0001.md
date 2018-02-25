@@ -1,23 +1,28 @@
 # Algorithmic Sovereignty
-'''Regaining collective power over software abstractions'''
+*Regaining collective power over software abstractions*
 
-D. Cuartielles
-School of Arts and Communication, K3
-Malmö University
+D. Cuartielles<br>
+School of Arts and Communication, K3<br>
+Malmö University<br>
 david.cuartielles@mah.se
 
 ## Extended Abstract
 In contemporary digital society control is enacted through machines commanded by dynamic programmatic structures. These structures, that we call algorithms [1], are operating on data that has been deprived of a meaning [2] and therefore have become irrelevant to us whilst it made us insignificant as our singularity got diluted in matrixes of aggregated raw information flows [3] that get automatically categorized by the algorithm itself.
+
 The definitions of many of the new terms needed to address our new ecology of devices, services, and situations are open for discussion. In particular, when talking about artificial intelligence (AI), deep learning (DL), or machine learning (ML), it is hard to find a strong definition for any of those terms in the literature [4]. Their definitions seem to suffer from the same degree of ambiguity as contemporary digital platforms what allows them to take new forms depending on the context [5]. While there seems to be no clear definition for what AI actually means, or where its limitations may lay, there is an emerging discussion around what is good and bad in using AI to mediate our — human — everyday interactions [6]. 
+
 In this text, I will focus in revisiting contemporary discussions around AI and how this type of technology is challenging the understanding of the real value of data. I will depart from the ideas of neutrality and technological sovereignty, to later reflect whether we should (or not) consider the algorithms behind AI in the same way as the rest of the technology. This exploration will include references from academia, technology vendors, activists, as well as the business world. The aim of this essay is contributing to building a critical discourse around technology but without denying it. I will do it through suggesting a vision on how to approach the building of an AI augmented democratic society where we, both as individuals, but also as part of a collectivity, should find out (new) ways to reclaim the access to the logic that commands our actions, the algorithm. Since these programs are part of the human-machine assemblage as much as we are [7], and since they have the possibility to monitor and modify the physical world [8], we need to re-evaluate how much of our moral decisions we want to delegate on the technology [9] [10]. I will build upon technology’s state of the art, how it is being developed, but also upon critical views of technology.
 
 ### Neutrality
 It has been claimed that [digital] technology is not neutral in the sense that it is made by some of us (humans) to serve our own needs. E.g. Mantelero talks about maps not being neutral, and extends it to big data [3], Feenberg sees the role of technology “as neither determining nor as neutral” [11], and Haraway mentions how the developments of the “new industrial revolution” are neither gender- nor race-neutral [12]. This extent has been proven empirically, among others, through the work of Buolamwini [13] who, as a consequence, created the Algorithmic Justice League (AJL) to fight against what she describes as algorithmic bias [14]. In her case everything started when it became clear that some devices were not able of running computer vision algorithms on subjects of color, which came to prove the point that there were no others than light-skinned subjects used for testing the algorithms.
+
 Rouvroy presents the difference between judgement and critique when talking about AI. Judgement describes the ability of clustering data into categories. Critique, on the other hand, defines the possibility of challenging the categories to better accommodate the data. Both actions, up to the arrival of AI, were made by us — humans —; extent that has changed now. AI is a system that never stops, where error doesn’t exist, where events have been washed away, and where categories are defined automatically by DL algorithms under parameters not understandable by us [2]. This makes impossible for us to challenge those categories, what excludes us from the possibility of making any critique that is not against the machine itself. In this case, neutrality is not just excluding one type of human — as portrayed at the beginning of this section — , but the human race per se. This is a new type of neutrality where we are all equal to the machine, but not equal with the machine, and this is the concept to challenge through algorithmic sovereignty.
 
 ### Technological sovereignty
 Computers do not affect all of us in the same way, since not each one of us has the same level of access to or involvement with the technology. Typically we talk about two different components in computing machinery: the hardware (the atoms, what is mechanical, visible and can be touched), and the software (the bits, what is of a purely electrical nature, invisible to the eye). In the case that sparked Buolamwini’s AJL it was software what manifested the issue. In some other cases, it is hardware the one to blame. Since this text is focusing in the aspects behind algorithms, which are expressed in software, I will not explore the route of hardware in depth.
+
 However, technological sovereignty is a term that has been used multiple times in the literature. It is understood differently depending on the context. Activists look at it from the perspective of building a distributed technologies and protocols for action [15]. Nations consider it relevant as a way not to depend on others, not to display weaknesses towards international forae, and to have a stronger protection against international surveillance [16]. In Latin American’s political discourse, this concept shows when e.g. talking about the ability of a nation to be independent from others which might be interfering [17] initiatives that have been tried out empirically and documented among others for the case of Venezuela and its turn towards open source software [18]. 
+
 The one thing at which technology activists and NATO analysts seem to coincide at is that AI will require a different strategy than the one followed by previous experiences in technology sovereignty. The approach is different for each one of those actors, though. The latter (NATO analysts) suggest that better encryption is the solution to avoid surveillance, since contemporary national-scale initiatives like the German attempt to create a national email system, have a hard time competing against the technology that can be created by international corporations [16]. The earlier think that in order to ensure a better tomorrow, we will need to construct AI capable of becoming a proxy to our digital lives (see Cadon’s essay “Code is political, algorithms are weapons of math destruction”, page 33 [15]). Cadon is the first reference I have found to the term of algorithmic sovereignty, but he introduces it almost as a critique by categorizing it of futurotopia. As I will discuss later, I think the idea of using open source technology and publicly hosted AI agents governed under a new non-existing regulation for this type of systems, is a lot more sound as a possible future, considering contemporary state of affairs at socio-economical level.
 
 ### The real power of contemporary AI
@@ -43,27 +48,27 @@ This text will argue that in order to reach the vision of a world where humachin
 
 ## References
 
-[1.] Dourish, Paul. (2016) Algorithms and their others: Algorithmic culture in context, Big Data & Society [link]
-[2.] Rouvroy, Antoniette. (2013) Society of the Query #2 - Antoinette Rouvroy: Algorithmic Governmentality and the End(s) of Critique, Vimeo [link]
-[3.] Mantelero, Alessandro. (2016) Personal data for decisional purposes in the age of analytics: From an individual to a collective dimension of data protection, Computer Law and Security Review [link]
-[4.] Johnson, Deborah G. and Miller, Keith W.. (2008) Un-making artificial moral agents, Ethics and Information Technology
-[5.] Cuartielles, David. (2018) Platform Design, Malmo University
-[6.] Mikton, John. (2015) The Internet of Things: ethics of our connectivity, Unknown source
-[7.] Bennett, Jane. (2005) The agency of assemblages and the North American blackout, Public Culture
-[8.] Hayles, N. K.. (2009) RFID: Human Agency and Meaning in Information-Intensive Environments, Theory, Culture & Society
-[9.] Adam, Alison. (2005) Delegating and distributing morality: Can we inscribe privacy protection in a machine?, Ethics and Information Technology
-[10.] Akrich, Madeleine. (1992) The de-scription of technical objects, Shaping technologybuilding society [link]
-[11.] Feenberg, Andrew. (2010) Democratic Rationalization: Technology, Power, and Freedom, Unknown source [link]
-[12.] Haraway, Donna J.. (1991) Simians, Cyborgs, and Women: The Reinvention of Nature., Unknown source [link]
-[13.] Finley, Klint. (2017) Can Apple's iPhone X Beat Facial Recognition's Bias Problem? | WIRED, Unknown source [link]
-[14.] Algorithmic Justice League. (2017) AJL - ALGORITHMIC JUSTICE LEAGUE, Unknown source [link]
-[15.] Padilla, Margarita and Hache, Alex and Cadon, Benj.... (2017) Technological Sovereignty, Vol. 2, Unknown source [link]
-[16.] Maurer, Tim and Morgus, Robert and Skierka, Isabel.... (2015) Technological Sovereignty: Missing the Point?, Unknown source
-[17.] Vázquez, Daniel and Barandiaran, Xabier E. a.... (2015) Buen conocer/FLOK Society: modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en Ecuador, CIESPAL [link]
-[18.] Tapia, Andrea H. and Maldonado, Edgar. (2009) An ICT Skills Cascade: Government-Mandated Open Source Policy as a Potential Driver for ICT Skills Transfer, Information Technologies and International Development
-[19.] Xing, Jun and Wei, Li-yi and Shiratori, Takaaki an.... (2015) Autocomplete Hand-drawn Animations, ACM Transactions on Graphics
-[20.] Bridle, James. (2017) Something is wrong on the internet, Medium [link]
-[21.] Cox, Jeff. (2017) A new robot-powered ETF AEIQ is beating the stock market, Website [link]
-[22.] Lane, Melissa. (2014) Greek and Roman Political Ideas, Penguin Books
-[23.] Brody, Paul and Pureswaran, Veena. (2015) Device democracy: Saving the future of the Internet of Things IBM, IBM Global Business Services Executive Report [link]
+[1.] Dourish, Paul. (2016) Algorithms and their others: Algorithmic culture in context, Big Data & Society [link](http://journals.sagepub.com/doi/10.1177/2053951716665128)<br>
+[2.] Rouvroy, Antoniette. (2013) Society of the Query #2 - Antoinette Rouvroy: Algorithmic Governmentality and the End(s) of Critique, Vimeo [link](https://vimeo.com/79880601)<br>
+[3.] Mantelero, Alessandro. (2016) Personal data for decisional purposes in the age of analytics: From an individual to a collective dimension of data protection, Computer Law and Security Review [link](http://dx.doi.org/10.1016/j.clsr.2016.01.014)<br>
+[4.] Johnson, Deborah G. and Miller, Keith W.. (2008) Un-making artificial moral agents, Ethics and Information Technology<br>
+[5.] Cuartielles, David. (2018) Platform Design, Malmo University<br>
+[6.] Mikton, John. (2015) The Internet of Things: ethics of our connectivity<br>
+[7.] Bennett, Jane. (2005) The agency of assemblages and the North American blackout, Public Culture<br>
+[8.] Hayles, N. K.. (2009) RFID: Human Agency and Meaning in Information-Intensive Environments, Theory, Culture & Society<br>
+[9.] Adam, Alison. (2005) Delegating and distributing morality: Can we inscribe privacy protection in a machine?, Ethics and Information Technology<br>
+[10.] Akrich, Madeleine. (1992) The de-scription of technical objects, Shaping technology building society [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.1982&amp;rep=rep1&amp;type=pdf)<br>
+[11.] Feenberg, Andrew. (2010) Democratic Rationalization: Technology, Power, and Freedom [link](http://www.amazon.com/Between-Reason-Experience-Technology-Modernity-ebook/dp/B004GCJPYK%5Cnhttp://www.amazon.com/Between-Reason-Experience-Technology-Modernity-ebook/dp/B004GCJPYK/ref=tmm_kin_title_0?_encoding=UTF8&sr=&qid=)<br>
+[12.] Haraway, Donna J.. (1991) Simians, Cyborgs, and Women: The Reinvention of Nature. [link](http://www.jstor.org/stable/2076334?origin=crossref)<br>
+[13.] Finley, Klint. (2017) Can Apple's iPhone X Beat Facial Recognition's Bias Problem?, WIRED [link](https://www.wired.com/story/can-apples-iphone-x-beat-facial-recognitions-bias-problem/)<br>
+[14.] Algorithmic Justice League. (2017) AJL - ALGORITHMIC JUSTICE LEAGUE [link](https://www.ajlunited.org/)<br>
+[15.] Padilla, Margarita and Hache, Alex and Cadon, Benj.... (2017) Technological Sovereignty, Vol. 2 [link](http://hacklabbo.indivia.net/book/sobtec2/)<br>
+[16.] Maurer, Tim and Morgus, Robert and Skierka, Isabel.... (2015) Technological Sovereignty: Missing the Point?<br>
+[17.] Vázquez, Daniel and Barandiaran, Xabier E. a.... (2015) Buen conocer/FLOK Society: modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en Ecuador, CIESPAL<br>
+[18.] Tapia, Andrea H. and Maldonado, Edgar. (2009) An ICT Skills Cascade: Government-Mandated Open Source Policy as a Potential Driver for ICT Skills Transfer, Information Technologies and International Development<br>
+[19.] Xing, Jun and Wei, Li-yi and Shiratori, Takaaki an.... (2015) Autocomplete Hand-drawn Animations, ACM Transactions on Graphics<br>
+[20.] Bridle, James. (2017) Something is wrong on the internet, Medium [link](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)<br>
+[21.] Cox, Jeff. (2017) A new robot-powered ETF AEIQ is beating the stock market, Website [link](https://www.cnbc.com/2017/10/20/a-new-robot-powered-etf-aeiq-is-beating-the-stock-market.html)<br>
+[22.] Lane, Melissa. (2014) Greek and Roman Political Ideas, Penguin Books<br>
+[23.] Brody, Paul and Pureswaran, Veena. (2015) Device democracy: Saving the future of the Internet of Things IBM, IBM Global Business Services Executive Report [link](http://m2mworldnews.com/download/white-papers/IBM-Saving-the-future-of-IoT.pdf)<br>
 [24.] Arrieta Ibarra, Imanol and Goff, Leonard and Jimen.... (2018) Should We Treat Data as Labor?, American Economic Review, Papers and Proceedings
